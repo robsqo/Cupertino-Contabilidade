@@ -1,1 +1,0 @@
-Substitua logo.png pela logo da Cupertino (recorte da imagem enviada).
